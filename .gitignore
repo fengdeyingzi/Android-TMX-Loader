@@ -1,0 +1,11 @@
+
+/bin/
+/gen/
+/obj/
+libs/*/*.so
+*/BuildConfig.java
+TMXLoaderExample/bin
+TMXLoaderExample/gen
+TMXLoader/gen
+TMXLoader/bin
+*.dex
