@@ -14,7 +14,7 @@ public class TMXLoaderExampleActivity extends Activity {
 
 
 	ImageView mapView;
-	String FILENAME = "ExampleMap.tmx";
+	String FILENAME = "mali.tmx";
 
 
     /** Called when the activity is first created. */
